@@ -1,0 +1,32 @@
+{
+        "info": {
+                "program": "licensecheck",
+                "version": "2024.2",
+                "license": "MIT LICENSE"
+        },
+        "project_license": "BSD LICENSE",
+        "packages": [
+                {
+                        "name": "numpy",
+                        "version": "2.1.0",
+                        "size": 18868922,
+                        "homePage": "https://numpy.org",
+                        "author": "Travis E. Oliphant et al.",
+                        "license": "BSD LICENSE",
+                        "licenseCompat": true,
+                        "errorCode": 0,
+                        "namever": "numpy-2.1.0"
+                },
+                {
+                        "name": "scipy",
+                        "version": "1.14.1",
+                        "size": 58620554,
+                        "homePage": "https://scipy.org/",
+                        "author": "None",
+                        "license": "BSD LICENSE",
+                        "licenseCompat": true,
+                        "errorCode": 0,
+                        "namever": "scipy-1.14.1"
+                }
+        ]
+}
